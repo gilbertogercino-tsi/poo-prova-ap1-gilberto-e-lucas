@@ -74,5 +74,3 @@ class Agenda:
 
         self.atendimentos.append(atendimento)
 
-# Agenda, Atendimento, Consulta, Exame, Paciente, Vacinacao
-
